@@ -1,0 +1,8 @@
+.nav-content{
+    color:black;
+}
+.nav-content:hover{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
